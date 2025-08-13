@@ -2,8 +2,8 @@
 
 ## 1. Installation
 ```
-git clone https://github.com/lex-hue/Stock-Predictor-V4.git
-cd Stock-Predictor-V4
+git clone https://github.com/Nandnee/RL_in_Cybersecurity
+cd RL_in_Cybersecurity
 python SPV4.py --install
 ```
 
